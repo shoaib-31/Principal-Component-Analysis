@@ -1,0 +1,1 @@
+This is an example of how dimensionality reduction with Principle Component Analysis is a crucial step most of the times which reduces computing cost significantly by trading very less to no accuracy. In the python notebook, Principle Component Analysis is performed over the [MNIST Dataset](https://www.kaggle.com/competitions/mnist-digit-recognizer).
